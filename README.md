@@ -32,8 +32,6 @@ Sou graduado em **Ciências Biológicas pela UFSC** e estou em transição de ca
 ### 📊 Estatísticas e Evolução
 
 <p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Theodtell&theme=tokyonight&hide_border=true" />
-
   <img 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodtell&theme=tokyonight&layout=donut&hide_border=true" 
