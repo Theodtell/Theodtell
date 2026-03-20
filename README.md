@@ -40,9 +40,6 @@ Sou graduado em **Ciências Biológicas pela UFSC** e estou em transição de ca
 </p>
 
 ---
-
-### 🐍 O Jogo da Cobrinha
-
 <picture>
   <source
     srcset="https://github.com/Theodtell/Theodtell/blob/output/github-contribution-grid-snake-dark.svg"
