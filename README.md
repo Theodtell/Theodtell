@@ -1,3 +1,4 @@
+<center>
 # 👩🏻‍💻 Theo Tell
 
 **`Desenvolvedor em formação`**
@@ -54,3 +55,4 @@ Sou graduado em **Ciências Biológicas pela UFSC** e estou em transição de ca
     alt="GitHub Contribution Snake Game" 
   />
 </picture>
+</center>
