@@ -4,7 +4,7 @@
 
 **`Desenvolvedor em formação`**
 
-Sou graduado em **Ciências Biológicas pela UFSC** e estou em transição de carreira para a tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e foco meus estudos em **Python**, com o objetivo de me tornar um desenvolvedor Back-end.
+Sou graduado em **Ciências Biológicas pela UFSC** e estou em transição de carreira para a tecnologia. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e foco meus estudos em **Python**, com o objetivo de me tornar um desenvolvedor Back-end.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/theo-dutra-tell-592172223/" target="_blank">
