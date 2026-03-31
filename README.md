@@ -40,14 +40,7 @@ Sou graduado em Ciências Biológicas pela UFSC e estou em transição de carrei
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Theodtell&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodtell&theme=tokyonight&layout=compact&hide_border=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Theodtell&theme=tokyonight&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Theodtell&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
