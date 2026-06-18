@@ -2,43 +2,43 @@
 
 # 👨🏻‍💻 Theo Tell
 
-**Desenvolvedor Back-end em formação**
+**Aspiring Back-end Developer**
 
-Sou graduado em Ciências Biológicas pela UFSC e estou em transição de carreira para a tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas e foco meus estudos em Python, com o objetivo de me tornar um desenvolvedor Back-end.
+Graduated in Biological Sciences from UFSC and currently transitioning careers into technology. I am studying Analysis and Systems Development with a strong focus on Python, aiming to build a solid career as a Back-end Developer.
 
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/theo-dutra-tell-592172223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Theodtell?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/Theodtell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Theodtell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-## 🧰 Linguagens Mais Utilizadas
+## 🧰 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodtell&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodtell&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&locale=en" />
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Theodtell&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Theodtell&theme=tokyonight&hide_border=true&locale=en"/>
 </div>
 
 ---
-## 🐍 Contribuições
+## 🐍 Contributions
 <div align="center">
 <picture>
   <source
@@ -58,6 +58,6 @@ Sou graduado em Ciências Biológicas pela UFSC e estou em transição de carrei
 </div>
 <div align="center">
 
-💡 *Em constante evolução, construindo projetos e consolidando fundamentos para atuar como desenvolvedor back-end.*
+💡 *In constant evolution, building projects and strengthening fundamentals to work as a back-end developer.*
 
 </div>
