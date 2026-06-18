@@ -23,6 +23,36 @@ Graduated in Biological Sciences from UFSC and currently transitioning careers i
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌟 TheoAPI — Full-Stack User Management
+<div align="center">
+  <a href="https://github.com/Theodtell/TheoAPI">
+    <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodtell&repo=TheoAPI&theme=tokyonight&show_owner=false" />
+  </a>
+</div>
+
+A full-stack REST API application focused on asynchronous event handling, data security, and dynamic third-party integrations.
+* **Key Features:** Full CRUD operations for user management, automated transactional email dispatch via SMTP (Brevo API) for creation/deletion alerts, and local JSON database storage.
+* **Technical Highlights:** Strict data schema validation with `Pydantic`, secure configuration management using `.env` variables, and custom CORS configurations for frontend-backend communication.
+* **Tech Stack:** `Python`, `FastAPI`, `Uvicorn`, `Pydantic`, `JavaScript (Vanilla JS)`, `HTML5/CSS3`.
+
+---
+
+### 🌐 UDP Client-Server Architecture
+<div align="center">
+  <a href="https://github.com/Theodtell/UDP-Client-Server">
+    <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodtell&repo=UDP-Client-Server&theme=tokyonight&show_owner=false" />
+  </a>
+</div>
+
+A hands-on network programming project designed to study core low-level computing and networking principles.
+* **Key Features:** Real-time connectionless communication channel between an active server instance and client processes using the UDP protocol.
+* **Technical Highlights:** Low-level network socket creation, port association (`bind()`), binary data handling via text/byte encoding and decoding (`encode()`/`decode()`), and custom ACK (Acknowledgment) validation.
+* **Tech Stack:** `Python`, `Socket Library`.
+
+---
+
 ## 📊 Dashboard & Stats
 
 <div align="center">
