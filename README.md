@@ -28,7 +28,7 @@ Graduated in Biological Sciences from UFSC and currently transitioning careers i
 ### 🌟 TheoAPI — Full-Stack User Management
 <div align="center">
   <a href="https://github.com/Theodtell/TheoAPI">
-    <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodtell&repo=TheoAPI&theme=tokyonight&show_owner=false" />
+    <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodtell&repo=8_SMTP&theme=tokyonight&show_owner=false" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@ A full-stack REST API application focused on asynchronous event handling, data s
 ### 🌐 UDP Client-Server Architecture
 <div align="center">
   <a href="https://github.com/Theodtell/UDP-Client-Server">
-    <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodtell&repo=UDP-Client-Server&theme=tokyonight&show_owner=false" />
+    <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodtell&repo=5_UDP-Client-Server&theme=tokyonight&show_owner=false" />
   </a>
 </div>
 
