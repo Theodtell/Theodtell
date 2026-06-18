@@ -63,7 +63,6 @@ Graduated in Biological Sciences from UFSC and currently transitioning careers i
 ## 📊 Dashboard & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theodtell&theme=tokyonight&show_icons=true&hide_border=true&locale=en" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodtell&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&locale=en" />
 </div>
 
