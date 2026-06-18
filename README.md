@@ -23,18 +23,11 @@ Graduated in Biological Sciences from UFSC and currently transitioning careers i
 
 ---
 
-## 🧰 Most Used Languages
+## 📊 Dashboard & Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodtell&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&locale=en" />
-</div>
-
----
-
-## 📊 Statistics
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Theodtell&theme=tokyonight&hide_border=true&locale=en"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Theodtell&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
