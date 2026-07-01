@@ -32,15 +32,15 @@ Graduated in Biological Sciences from UFSC and currently transitioning careers i
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/Theodtell/trilha_python/tree/main/8_SMTP">
+      <a href="https://github.com/Theodtell/realtime-chat-api">
         <img src="https://img.shields.io/badge/Repository-Go_to_Folder-blue?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
-      A full-stack REST API application focused on asynchronous event handling, data security, and dynamic third-party integrations.
+      A full-stack application combining a REST API with real-time communication, featuring user management, automated email notifications, and a live group chat built with WebSocket.
       <ul>
-        <li><b>Key Features:</b> Full CRUD operations, automated transactional email dispatch via SMTP (Brevo API), and local JSON database storage.</li>
-        <li><b>Technical Highlights:</b> Strict validation with <code>Pydantic</code>, secure config management via <code>.env</code>, and custom CORS setup.</li>
-        <li><b>Tech Stack:</b> <code>Python</code>, <code>FastAPI</code>, <code>Uvicorn</code>, <code>Pydantic</code>, <code>JavaScript</code>, <code>HTML5/CSS3</code>.</li>
+        <li><b>Key Features:</b> Full CRUD operations, real-time group chat with typing indicators and message history via WebSocket, and automated transactional email dispatch via SMTP (Brevo API).</li>
+        <li><b>Technical Highlights:</b> Strict validation with <code>Pydantic</code>, secure config management via <code>.env</code>, custom CORS setup, and in-memory + JSON-based persistence.</li>
+        <li><b>Tech Stack:</b> <code>Python</code>, <code>FastAPI</code>, <code>WebSocket</code>, <code>Uvicorn</code>, <code>Pydantic</code>, <code>JavaScript</code>, <code>HTML5/CSS3</code>.</li>
       </ul>
     </td>
     <td valign="top">
